@@ -12,8 +12,8 @@ CSS styling and animations
 
 **🛠️ Technologies Used**
 
-HTML5
-CSS3
+🔯HTML5
+🔯CSS3
 
 **🌐 Live Demo**
 https://github.com/TahiraDev691/study-sync-project
