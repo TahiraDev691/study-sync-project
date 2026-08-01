@@ -1,7 +1,7 @@
 # study sync
 A modern and responsive Study Sync website designed to provide an engaging learning experience. Built with HTML and CSS, this project focuses on clean layouts, attractive visuals, and a user-friendly interface that works smoothly across different screen sizes.
 
-**🚀 Features**
+**##🚀 Features**
 
 -Responsive website design
 -Hero section with attractive layout
@@ -10,7 +10,7 @@ A modern and responsive Study Sync website designed to provide an engaging learn
 -Clean and simple user interface
 -CSS styling and animations
 
-**🛠️ Technologies Used**
+**##🛠️ Technologies Used**
 
 -HTML5
 -CSS3
