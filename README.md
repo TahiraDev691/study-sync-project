@@ -3,17 +3,17 @@ A modern and responsive Study Sync website designed to provide an engaging learn
 
 **🚀 Features**
 
-Responsive website design
-Hero section with attractive layout
-Organized content sections
-Modern navigation menu
-Clean and simple user interface
-CSS styling and animations
+-Responsive website design
+-Hero section with attractive layout
+-Organized content sections
+-Modern navigation menu
+-Clean and simple user interface
+-CSS styling and animations
 
 **🛠️ Technologies Used**
 
-🔯HTML5
-🔯CSS3
+-HTML5
+-CSS3
 
 **🌐 Live Demo**
 https://github.com/TahiraDev691/study-sync-project
