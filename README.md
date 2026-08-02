@@ -21,7 +21,7 @@ A modern and responsive **Study Sync website** designed to provide an engaging l
 [Study Sync Project](https://github.com/TahiraDev691/study-sync-project)
 
 ## 📸 Preview
-![Screenshot 1](email.png)
+![Screenshot](./study%20sy/your-image-name.png)
 
 ![Screenshot 2](study.sync.png)
 
