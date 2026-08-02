@@ -25,6 +25,9 @@ A modern and responsive **Study Sync website** designed to provide an engaging l
 
 ![Cards Screenshot](cards.png)
 
+![teachers Screenshot](teachers.png)
+
+
 ![Email Screenshot](emil.png)
 
 
