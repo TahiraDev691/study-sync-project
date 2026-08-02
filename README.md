@@ -20,7 +20,10 @@ A modern and responsive **Study Sync website** designed to provide an engaging l
 
 [Study Sync Project](https://github.com/TahiraDev691/study-sync-project)
 
+## 📸 Preview
+![Screenshot 1](email.png)
 
+![Screenshot 2](study.sync.png)
 
 
 ## 👩‍💻 Author
