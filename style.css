@@ -1,0 +1,20 @@
+/* shadows in css  for students*/
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.outer {
+    background-color: #66ccff;
+    padding: 40px;
+    width: 600px;
+}
+
+.inner {
+    background-color: white;
+    padding: 20px;
+    box-shadow: 0 0 0 30px #f4aab9;
+
+}
