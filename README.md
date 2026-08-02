@@ -23,6 +23,8 @@ A modern and responsive **Study Sync website** designed to provide an engaging l
 ## 📸 Preview
 ![Study Sync Screenshot](study%20sync.png)
 
+![Cards Screenshot](cards.png)
+
 ![Email Screenshot](emil.png)
 
 
