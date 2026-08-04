@@ -19,14 +19,12 @@ The website uses **CSS animations and transitions** to create interactive and en
 * HTML5
 * CSS3
 
-## 🌐 Live Demo
-
-[Study Sync Project](https://github.com/TahiraDev691/study-sync-project)
 
 ## 📸 Preview
 ![Study Sync Screenshot](study%20sync.png)
 
 ![Cards Screenshot](cards.png)
+
 
 ![teachers Screenshot](teachers.png)
 
